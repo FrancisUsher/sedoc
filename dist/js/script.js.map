@@ -1,0 +1,1 @@
+{"version":3,"sources":["script.js"],"names":["nums","forEach","v","fives","push"],"mappings":";;AAAA;AACAA,KAAKC,OAAL,CAAa,aAAK;AACd,QAAIC,IAAI,CAAJ,KAAU,CAAd,EACIC,MAAMC,IAAN,CAAWF,CAAX;AACP,CAHD","file":"script.js","sourcesContent":["// Statement bodies\nnums.forEach(v => {\n    if (v % 5 === 0)\n        fives.push(v);\n});\n"]}
